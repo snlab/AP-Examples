@@ -1,0 +1,7 @@
+ACL: https://tools.ietf.org/html/draft-bogdanovic-netmod-acl-model-00
+
+GBP: https://github.com/opendaylight/groupbasedpolicy/tree/master/groupbasedpolicy/src/main/yang
+
+L3VPN: https://tools.ietf.org/html/draft-l3vpn-service-yang-00
+
+Broadcom DPA: https://github.com/Broadcom-Switch/of-dpa/blob/master/OF-DPA-2.0/OFDPA_ASSV-ETP200-R.pdf
